@@ -1,9 +1,9 @@
-# Content — pravidla pro agenta
+# Content: rules for the agent
 
-Tento modul vlastní veřejný obsah a acquisition assets.
+This module owns public content and acquisition assets.
 
-- Nepublikuj neověřené revenue claimy jako fakta.
-- Nekopíruj cizí obsah ani styl tak, aby imitoval identitu jiné firmy.
-- U každého piece zkontroluj, zda neobsahuje secrets, osobní data nebo
-  nepovolené zdroje.
-- Pokud obsah navazuje na research, odkazuj na zdrojový research artefakt.
+- Do not publish unverified revenue claims as facts.
+- Do not copy other people's content or style in a way that imitates another
+  company's identity.
+- Check every piece for secrets, personal data or unapproved sources.
+- When content builds on research, link to the source research artifact.

@@ -1,13 +1,13 @@
-# AgentMint Content
+# Lazurio Example Organization content
 
-Modul pro veřejné publikační a acquisition assets.
+A module for public publishing and acquisition assets.
 
-Content může přitahovat publikum, vysvětlovat mechanismy a podporovat
-experimenty. Nesmí ale předstírat důkazy, které AgentMint nemá.
+Content can attract an audience, explain mechanisms and support experiments.
+It must not, however, pretend to have evidence the Organization does not have.
 
-## Pravidla
+## Rules
 
-- cituj zdroje a odděluj fakta od názoru
-- nepřebírej cizí texty, grafiku, databáze ani editorial voice
-- u affiliate nebo sponzorovaných vztahů používej disclosure
-- claimy o výsledcích musí mít evidenci
+- cite sources and keep facts apart from opinion
+- do not take over other people's texts, graphics, databases or editorial voice
+- use a disclosure for affiliate or sponsored relationships
+- claims about results must have evidence
